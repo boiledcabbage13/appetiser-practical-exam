@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/applayout.js": "/js/applayout.js",
+    "/js/eventsModule.js": "/js/eventsModule.js",
+    "/js/eventPage.js": "/js/eventPage.js",
+    "/js/createEventForm.js": "/js/createEventForm.js",
+    "/js/eventCalendar.js": "/js/eventCalendar.js",
+    "/css/app.css": "/css/app.css"
+}
