@@ -1,4 +1,5 @@
 <template>
+<v-card class="pa-6">
     <v-row>
         <v-col cols="12">
             <div class="title font-weight-bold">
@@ -26,6 +27,7 @@
             {{ snackbar.message }}
         </v-snackbar>
     </v-row>
+    </v-card>
 </template>
 
 <script>
